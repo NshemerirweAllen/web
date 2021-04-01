@@ -1,0 +1,14 @@
+.upper img{
+    width: 100px;
+    height: 200px;
+}
+.lower img{
+    width: 100px;
+    height:200px;
+}
+#ph{
+    background-color: blue;
+    color: chartreuse;
+    font-style: italic;
+
+}
